@@ -12,7 +12,7 @@ git clone https://github.com/ultralytics/yolov5
 ```
 
 ### Training the Model
-The TRODO dataset is used for training. To make it YOLO-friendly, run the convert_annotations_to_yolo_based_labels.ipynb notebook. This notebook converts the annotation files into text files that specify the locations of odometer boxes in the training images.
+The [TRODO](https://www.sciencedirect.com/science/article/pii/S2352340921006053) dataset is used for training. To make it YOLO-friendly, run the convert_annotations_to_yolo_based_labels.ipynb notebook. This notebook converts the annotation files into text files that specify the locations of odometer boxes in the training images.
 
 [Convert Annotations to YOLO Based Labels](https://github.com/Nika-Soltani-Tehrani/odometer_extractor/blob/master/notebooks/convert_annotations_to_yolo_based_labels.ipynb)
 
