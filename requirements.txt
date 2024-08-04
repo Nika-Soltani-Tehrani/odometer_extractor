@@ -1,0 +1,5 @@
+ultralytics
+easyocr==1.7.1
+csv
+numpy
+xml

@@ -1,0 +1,6 @@
+train: ../trodo/images/train
+val: ../trodo/images/val
+test: ../../drive/MyDrive/data/test/images
+
+nc: 1  # Number of classes
+names: ['odometer']
